@@ -1,0 +1,247 @@
+{
+    "nav": {
+        "about": "À Propos",
+        "achievements": "Réalisations",
+        "dishes": "Plats",
+        "career": "Parcours",
+        "gallery": "Galerie",
+        "training": "Formation",
+        "contact": "Contact"
+    },
+    "hero": {
+        "slides": {
+            "slide1": {
+                "subtitle": "Chef à l'UM6P",
+                "title": "AISSAM",
+                "titleAccent": "AIT OUAKRIM",
+                "description": "Maîtriser l'Art de la Gastronomie Marocaine et Internationale"
+            },
+            "slide2": {
+                "subtitle": "Champion Bocuse d'Or",
+                "title": "CHAMPION",
+                "titleAccent": "D'AFRIQUE 2018",
+                "description": "Représenter le Maroc avec Excellence sur la Scène Mondiale"
+            },
+            "slide3": {
+                "subtitle": "25+ Années d'Excellence",
+                "title": "VISIONNAIRE",
+                "titleAccent": "CULINAIRE",
+                "description": "Des Cuisines Michelin aux Plus Beaux Établissements Marocains"
+            },
+            "slide4": {
+                "subtitle": "Leadership de Classe Mondiale",
+                "title": "EXECUTIVE",
+                "titleAccent": "CHEF",
+                "description": "Diriger des Équipes de 65+ Chefs dans des Hôtels 5 Étoiles"
+            }
+        },
+        "cta1": "Découvrir Mon Parcours",
+        "cta2": "Me Contacter",
+        "scroll": "Défiler"
+    },
+    "about": {
+        "label": "Le Parcours",
+        "title": "Un Héritage d'",
+        "titleAccent": "Excellence Culinaire",
+        "titleArabic": "إرث من التميز الطهوي",
+        "description1": "Chef de renom à l'échelle nationale et internationale, Aissam Ait Ouakrim est un Chef marocain fort de plus de 25 ans d'expérience.",
+        "description2": "Spécialiste reconnu dans l'ouverture d'hôtels et restaurants de luxe.",
+        "description3": "Diplômé de plusieurs institutions spécialisées et formé auprès de chefs étoilés Michelin.",
+        "stats": {
+            "years": "Années d'Excellence",
+            "chefs": "Chefs Supervisés",
+            "openings": "Ouvertures d'Hôtels",
+            "awards": "Prix Internationaux"
+        }
+    },
+    "achievements": {
+        "label": "Reconnaissance",
+        "title": "Réalisations",
+        "titleAccent": "Signature",
+        "titleArabic": "إنجازات مميزة",
+        "description": "Reconnaissance internationale incluant Médaille d'Or, Champion d'Afrique et Finaliste Mondial"
+    },
+    "dishes": {
+        "label": "Créations Culinaires",
+        "title": "Plats",
+        "titleAccent": "Signature",
+        "titleArabic": "الأطباق المميزة",
+        "description": "Une collection de créations signature mêlant héritage marocain et art culinaire moderne.",
+        "hoverDetails": "Survoler pour détails",
+        "viewDetails": "Voir Tous les Détails",
+        "categories": {
+            "all": "Tous",
+            "appetizer": "Entrée",
+            "mainCourse": "Plat Principal",
+            "dessert": "Dessert"
+        },
+        "inspiration": "L'Histoire",
+        "technique": "Technique",
+        "ingredients": "Ingrédients Clés"
+    },
+    "gallery": {
+        "label": "Première Galerie d'Art Culinaire au Monde",
+        "title": "Galerie",
+        "titleAccent": "Artistique",
+        "titleArabic": "معرض فني",
+        "description": "Le premier chef au monde à créer une galerie artistique dédiée à la gastronomie.",
+        "viewDetails": "Voir Détails",
+        "cta": "Commander une Expérience",
+        "chefNote": "Note du Chef"
+    },
+    "career": {
+        "label": "25+ Années d'Excellence",
+        "title": "Parcours",
+        "titleAccent": "Professionnel",
+        "titleArabic": "رحلة مهنية",
+        "description": "Des cuisines étoilées aux plus prestigieux établissements marocains",
+        "previous": "Précédent",
+        "next": "Suivant",
+        "teamSize": "Taille de l'Équipe",
+        "operations": "Opérations",
+        "imageCaption": "Célébrer l'excellence de la gastronomie marocaine",
+        "stats": {
+            "years": "Années d'Expérience",
+            "establishments": "Établissements",
+            "maxTeam": "Équipe Maximale",
+            "michelin": "Formation Michelin"
+        }
+    },
+    "training": {
+        "label": "Éducation et Expertise",
+        "title": "Formation",
+        "titleAccent": "Certifications",
+        "titleArabic": "التدريب والشهادات",
+        "description": "Formation continue auprès des institutions culinaires les plus prestigieuses",
+        "stats": {
+            "certifications": "Certifications",
+            "michelinStars": "Étoiles Michelin",
+            "countries": "Pays",
+            "yearsTraining": "Ans de Formation"
+        }
+    },
+    "press": {
+        "label": "Couverture Médiatique",
+        "title": "Presse",
+        "titleAccent": "Médias",
+        "titleArabic": "الصحافة والإعلام",
+        "description": "Présent dans les principales publications culinaires mondiales",
+        "readArticle": "Lire l'Article Complet",
+        "viewAll": "Voir Toute la Presse",
+        "categories": {
+            "all": "Tous",
+            "print": "Presse Écrite",
+            "tv": "Télévision",
+            "online": "En Ligne",
+            "radio": "Radio"
+        }
+    },
+    "newsletter": {
+        "title": "Restez",
+        "titleAccent": "Connecté",
+        "titleArabic": "ابق على تواصل",
+        "description": "Abonnez-vous pour recevoir des insights culinaires exclusifs, de nouvelles recettes et des mises à jour sur les événements et collaborations à venir.",
+        "emailPlaceholder": "Entrez votre adresse email",
+        "subscribe": "S'abonner",
+        "subscribing": "Abonnement...",
+        "subscribed": "Abonné !",
+        "success": "Merci de vous être abonné !",
+        "privacy": "Nous respectons votre vie privée. Vous pouvez vous désabonner à tout moment."
+    },
+    "downloads": {
+        "label": "Ressources",
+        "title": "Ressources",
+        "titleAccent": "Téléchargeables",
+        "titleArabic": "الموارد القابلة للتنزيل",
+        "description": "Accédez aux matériaux professionnels incluant CV, kit média et portfolio",
+        "download": "Télécharger"
+    },
+    "booking": {
+        "title": "Réserver une",
+        "titleAccent": "Consultation",
+        "titleArabic": "احجز استشارة",
+        "description": "Planifiez une consultation pour du conseil culinaire, des conférences ou des collaborations.",
+        "name": "Nom Complet",
+        "namePlaceholder": "Votre nom",
+        "email": "Email",
+        "emailPlaceholder": "votre@email.com",
+        "phone": "Téléphone",
+        "phonePlaceholder": "+212 660-171702",
+        "type": "Type de Consultation",
+        "types": {
+            "consultation": "Conseil Culinaire",
+            "speaking": "Conférence",
+            "collaboration": "Collaboration",
+            "training": "Programme de Formation",
+            "other": "Autre"
+        },
+        "date": "Date Préférée",
+        "time": "Heure Préférée",
+        "message": "Informations Complémentaires",
+        "messagePlaceholder": "Parlez-nous de votre demande...",
+        "submit": "Envoyer la Demande",
+        "submitting": "Envoi...",
+        "success": "Demande Envoyée !",
+        "successMessage": "Merci ! Nous vous répondrons dans les 24 heures."
+    },
+    "video": {
+        "label": "Galerie Vidéo",
+        "title": "Vidéo",
+        "titleAccent": "Showcase",
+        "titleArabic": "معرض الفيديو",
+        "description": "Découvrez l'art et la passion derrière chaque plat à travers des vidéos exclusives, démonstrations culinaires et coulisses.",
+        "placeholderNote": "* Vidéos de démonstration. À remplacer par le contenu réel."
+    },
+    "social": {
+        "title": "Suivez le",
+        "titleAccent": "Parcours",
+        "titleArabic": "تابع الرحلة",
+        "description": "Restez connecté sur Instagram pour l'inspiration culinaire quotidienne",
+        "follow": "Suivre sur Instagram",
+        "likes": "j'aime",
+        "comments": "commentaires"
+    },
+    "search": {
+        "placeholder": "Rechercher...",
+        "noResults": "Aucun résultat trouvé",
+        "results": "résultats"
+    },
+    "contact": {
+        "label": "Contactez-Nous",
+        "title": "Créons Quelque Chose",
+        "titleAccent": "d'Exquis",
+        "titleArabic": "لنبتكر شيئاً رائعاً",
+        "description": "Disponible pour du conseil, des événements culinaires et des partenariats",
+        "formName": "Nom",
+        "formEmail": "Email",
+        "formSubject": "Sujet",
+        "formMessage": "Message",
+        "formNamePlaceholder": "Votre nom",
+        "formEmailPlaceholder": "votre@email.com",
+        "formSubjectPlaceholder": "Comment puis-je vous aider ?",
+        "formMessagePlaceholder": "Parlez-moi de votre projet...",
+        "submit": "Envoyer le Message"
+    },
+    "footer": {
+        "description": "Chef et Visionnaire Culinaire",
+        "quickLinks": "Liens Rapides",
+        "connect": "Se Connecter",
+        "rights": "Tous droits réservés.",
+        "privacy": "Politique de Confidentialité",
+        "terms": "Conditions d'Utilisation"
+    },
+    "inspirationalVideo": {
+        "label": "Inspiration",
+        "title": "Un Voyage",
+        "titleAccent": "Cinématique",
+        "titleArabic": "رحلة سينمائية",
+        "description": "Découvrez la passion, le dévouement et le talent artistique qui définissent le monde culinaire du Chef Aissam Ait Ouakrim."
+    },
+    "shorts": {
+        "label": "Inspiration",
+        "title": "L'État d'Esprit",
+        "titleAccent": "du Chef",
+        "titleArabic": "عقلية الشيف",
+        "description": "Des moments de dévouement, de précision et la poursuite incessante de la perfection culinaire."
+    }
+}
